@@ -1,6 +1,7 @@
 # AlgoLab C++ — Sorting Algorithm Visualizer
 
 > "Tell me and I forget. Show me and I remember. Involve me and I understand."
+
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-58a6ff?style=for-the-badge)](https://kumarimanjusrimohantycse2024-art.github.io/AlgoLab-CPP/)
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-AlgoLab--CPP-181717?style=for-the-badge&logo=github)](https://github.com/kumarimanjusrimohantycse2024-art/AlgoLab-CPP)
