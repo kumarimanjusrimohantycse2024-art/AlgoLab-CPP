@@ -1,7 +1,17 @@
 # AlgoLab C++ — Sorting Algorithm Visualizer
 
 > "Tell me and I forget. Show me and I remember. Involve me and I understand."
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-58a6ff?style=for-the-badge)](https://kumarimanjusrimohantycse2024-art.github.io/AlgoLab-CPP/)
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-AlgoLab--CPP-181717?style=for-the-badge&logo=github)](https://github.com/kumarimanjusrimohantycse2024-art/AlgoLab-CPP)
+
+[![Language](https://img.shields.io/badge/Language-JavaScript-e3b341?style=for-the-badge&logo=javascript)](https://github.com/kumarimanjusrimohantycse2024-art/AlgoLab-CPP)
+
+[![Algorithms](https://img.shields.io/badge/Algorithms-10_Sorting-3fb950?style=for-the-badge)](https://github.com/kumarimanjusrimohantycse2024-art/AlgoLab-CPP)
+
+[![Zero Dependencies](https://img.shields.io/badge/Dependencies-Zero-f78166?style=for-the-badge)](https://github.com/kumarimanjusrimohantycse2024-art/AlgoLab-CPP)
+
+[![Made With Love](https://img.shields.io/badge/Made_with-💙_by_Pihu_Mohanty-d2a8ff?style=for-the-badge)](https://github.com/kumarimanjusrimohantycse2024-art)
 ---
 
 ## 🧠 What Is This?
